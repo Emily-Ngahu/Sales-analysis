@@ -1,1 +1,2 @@
 # Sales-dashboard
+## Project aim
