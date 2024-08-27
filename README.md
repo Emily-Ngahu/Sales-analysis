@@ -14,16 +14,16 @@ The sales dashboard will include key metrics such as:
    
    ## Tools used
    1. Excel
-   - for data cleaning
+   - For data cleaning
    2. Power BI 
-   - data transformation and data visualization
+   - Data transformation and data visualization
    - Dashboard creation
      
    ## Data
    The data used in this project was downloaded from kaggle.Download [here](https://github.com/Emily-Ngahu/Sales-dashboard/blob/main/Sales%20dashboard%20data.xlsx)
    
    ### Data description
-   The excel file has two sheets
+   The excel file has two sheets.
    1. ### Input data
    This sheet has the following columns:
     - Date - This is the date the transaction took place.
@@ -62,23 +62,24 @@ The sales dashboard will include key metrics such as:
       
   ## Data visualization and dashboard creation 
   1. Added slicers for month, year, sales type and mode of payment.
-     - List slicer for year and
+     - List slicer for year 
      - Drop down for sales type and payment mode
-  2. Card visual for total sales, total profit, profit percentage, total quantity
+  2. Card visual for total sales, total profit, profit percentage, top product and top category. 
   3. Added stacked column chart for monthly visual for total sales and total profit, sorting it by month(add profit % to tool tip)
   4. Clustered bar chart for total sales and products
   5. Stacked area chart for total sales and days of the week
-  6. Donut chart for sale type and total sales
+  6. Donut chart for sale type, payment mode and total sales
   7. Tree map for category and total sales
-     ## Preview of created dashboard
+     ## Preview of the created dashboard
      ![My Image](https://github.com/Emily-Ngahu/Sales-dashboard/blob/main/Sales%20dashboard%20preview.jpg)
 
      ## How to Use the Dashboard:
      You can download the `.pbix` file from this repository.
       Download  [here](https://github.com/Emily-Ngahu/Sales-dashboard/blob/main/Sales%20dashboard.pbix)
      ## Results and Insights:
-     ### 2021
-     
+The tables below shows the distribution of the type of the type of sales for the years 2021 and 2022
+
+   ### 2021     
 | Metric          | Direct sales  |     Online     |   Wholesaler     |
 |-----------------|---------------|----------------|------------------|
 | Total sales     |     95k       |     68k        |    25k           |
@@ -98,6 +99,36 @@ The sales dashboard will include key metrics such as:
 | Product quantity|     45        |     46         |    23            |
 | Top product     |   product 30  |   product 02   |   product 19     |
 | Top category    |   category 02 |   category 01  |   category 05    |
-     
-     ## Conclusion and Recommendations:
+
+ 1. In both 2021 and 2022, direct sales generated the most revenue.
+ 2. In 2021, most sales were generated in October while in 2022, most sales were generated in November.
+ 3. In 2021, a total of 187k sales were made with a profit of 30k.
+ 4. In 2022, a total of 214k sales were made with a profit of 39k.
+ 5. Online(mode of payment) generated the highest sales in both years.
+ 6. In 2021, product 42 generated most sales while in 2022, product 30 generated the most sales.
+ 7. In 2021, category 05 generated most sales while in 2022, category 04 generated the most sales.
+ 
+     ## Conclusions:
+    1. Sales and Profit Growth:
+- There was a significant increase in both sales and profit from 2021 to 2022. Sales grew from 187k in 2021 with a profit of 30k to 214k in 2022 with a profit of 39k, demonstrating a positive trend in overall business performance.
+  
+    2. Online Payment Dominance:
+- Online payment was the most popular mode of payment in both years, reflecting a customer preference for convenience and digital transactions.
+  
+    3. Seasonal Sales Trends:
+- Sales peaked in October 2021 and November 2022, indicating potential seasonal factors or marketing campaigns that drove higher sales during these months.
+  
+    4. Revenue Growth Across Both Years:
+- Direct sales were consistently the top revenue generator in both 2021 and 2022, highlighting the importance of direct channels in driving overall revenue growth.
+  
+     ## Recommendations:
+  1. Focus on Direct Sales Channels:
+- Since direct sales consistently generate the highest revenue, it is important to continue optimizing these channels. This could include improving customer experience, expanding the sales team, and enhancing CRM strategies.
+  
+  2. Enhance Online Payment Options:
+- With online payments being the most preferred mode, continue enhancing the online payment experience. Consider offering more payment options, improving transaction security, and promoting the convenience of online payments.
+  
+  3. Plan for Growth and Scalability:
+- Given the year-over-year growth in sales and profits, invest in scaling operations, enhancing supply chain efficiency, and expanding market reach. Forecast future demand based on historical growth trends and prepare to meet increasing customer needs.
+  
       
