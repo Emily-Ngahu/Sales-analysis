@@ -20,7 +20,7 @@ The sales dashboard will include key metrics such as:
    - Dashboard creation
      
    ## Data
-   The data used in this project was downloaded from kaggle.
+   The data used in this project was downloaded from kaggle.Download [here](https://github.com/Emily-Ngahu/Sales-dashboard/blob/main/Sales%20dashboard%20data.xlsx)
    
    ### Data description
    The excel file has two sheets
@@ -70,5 +70,34 @@ The sales dashboard will include key metrics such as:
   5. Stacked area chart for total sales and days of the week
   6. Donut chart for sale type and total sales
   7. Tree map for category and total sales
-     ## Results
+     ## Preview of created dashboard
+     ![My Image](https://github.com/Emily-Ngahu/Sales-dashboard/blob/main/Sales%20dashboard%20preview.jpg)
+
+     ## How to Use the Dashboard:
+     You can download the `.pbix` file from this repository.
+      Download  [here](https://github.com/Emily-Ngahu/Sales-dashboard/blob/main/Sales%20dashboard.pbix)
+     ## Results and Insights:
+     ### 2021
+     
+| Metric          | Direct sales  |     Online     |   Wholesaler     |
+|-----------------|---------------|----------------|------------------|
+| Total sales     |     95k       |     68k        |    25k           |
+| Total profit    |     16k       |     11k        |    4k            |
+| profit%         |     20%       |     19%        |    19%           |
+| Product quantity|     41        |     41         |    16            |
+| Top product     |   product 41  |   product 24   |   product 42     |
+| Top category    |   category 02 |   category 03  |   category 05    |
+
+   ### 2022
+   
+| Metric          | Direct sales  |     Online     |   Wholesaler     |
+|-----------------|---------------|----------------|------------------|
+| Total sales     |     113k      |     66k        |    35k           |
+| Total profit    |     20k       |     11k        |    7k            |
+| profit%         |     22%       |     21%        |    24%           |
+| Product quantity|     45        |     46         |    23            |
+| Top product     |   product 30  |   product 02   |   product 19     |
+| Top category    |   category 02 |   category 01  |   category 05    |
+     
+     ## Conclusion and Recommendations:
       
