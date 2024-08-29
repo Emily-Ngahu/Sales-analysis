@@ -43,6 +43,7 @@ The sales dashboard will include key metrics such as:
    ### Data cleaning
    1. Checked for missing values - there were no missing values
    2. Checked for duplicates - there were no duplicates
+   3. Checked for errors, and data types to ensure consistency and acuuracy of the data.  
    
    ## Data transformation and preparation
    
