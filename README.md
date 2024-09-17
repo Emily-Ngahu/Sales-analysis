@@ -1,4 +1,5 @@
 # Sales analysis dashboard
+![image](https://github.com/user-attachments/assets/60c81c02-8c8b-4731-90bd-7e46b76388c7)
 
 ## Project Aim
 The aim is to create an interactive sales dashboard that provides insights into sales performance across different products and categories, helping stakeholders make data-driven decisions.
